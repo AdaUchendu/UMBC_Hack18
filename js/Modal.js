@@ -49,8 +49,9 @@ function printTable(data) {
 	var row = myTable.insertRow(0);
 	var cell = row.insertCell(0);
 
-	cell.innerHTML = "Class: " + item['class'] + "<br>Assignment: " + item['assignments'] + "<br>Date: " + item['date'] + "     Time: " + item['time'] + "<br>Description: " + item['description'];
-	console.log(cell.innerHTML);
+	cell.innerHTML = "Class: " + item['class'] + "<br>Assignment: " + item['assignments'] + "<br>Date: " + item['date'] +
+"           Time: " + item['time'] + "         Location: " + item['location']  + "<br>Professor: " + item['professor'] + "<br>Description: " + item['description'];
+    console.log(cell.innerHTML);
     }
 
 
