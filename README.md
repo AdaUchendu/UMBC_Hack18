@@ -6,4 +6,4 @@ Durell Smith
 Adaku Uchendu
 Uchendu Uchendu
 
-Link to the data visualization tool: https://adaku.shinyapps.io/DataViz/
+Link to the data visualization tool: https://adaku.shinyapps.io/DataVisuals/
